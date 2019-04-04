@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CU Hill Town</string>
+    <string name="value_format">%1$.2f</string>
+</resources>
